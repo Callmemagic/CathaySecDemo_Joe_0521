@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CathaySecDemo_Joe_0521</string>
+
+    <string name="home">首頁</string>
+    <string name="quotation">報價</string>
+    <string name="order">下單</string>
+    <string name="account">帳務</string>
+    <string name="more">更多</string>
+
+    <string name="bond">債券行情</string>
+    <string name="ref_sale_price">參考賣價</string>
+    <string name="ref_ratio">參考殖利率</string>
+    <string name="due_year">距到期年</string>
+
+</resources>

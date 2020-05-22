@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/bondQuotationFragment"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/quotation"/>
+
+    <item
+        android:id="@+id/orderFragment"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/order"/>
+
+    <item
+        android:id="@+id/accountFragment"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/account"/>
+
+    <item
+        android:id="@+id/moreFragment"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/more"/>
+</menu>
